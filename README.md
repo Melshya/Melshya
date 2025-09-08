@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey there!
 
-<!--
-**Melshya/Melshya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Inês Neves**, though you might know me online as **Melshya**, and I’m from **Lisbon, Portugal**.  
 
-Here are some ideas to get you started:
+I’ve always enjoyed working with computers, which led me to take a **multimedia course**. Along the way, I discovered that what I really loved was **programming**. Since then, I’ve been diving deeper into code and exploring different areas of development.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+· · ─ ·✶· ─ · ·
+
+A bit about me:  
+*  I’ve built websites, both **front-end and back-end**.  
+*  Currently self-learning **Android engineering**, while still exploring new technologies.  
+*  Always curious and open to learning something new in the tech world.  
+*  I speak **Portuguese**, **English**, and **German**.
+*  I have an orange cat and I love cats in general. /ᐠ - ˕ -マ
+
+· · ─ ·✶· ─ · ·
+
+###  Tools & Technologies
+JavaScript · HTML/CSS · React · Express · Vite · NPM · Axios · Databases (SQL/NoSQL) · Kotlin (currently learning)
+
