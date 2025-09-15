@@ -2,7 +2,7 @@
 
 I’m **Inês Neves**, though you might know me online as **Melshya**, and I’m from **Lisbon, Portugal**.  
 
-I’ve always enjoyed working with computers, which led me to take a **multimedia course**. Along the way, I discovered that what I really loved was **programming**. Since then, I’ve been diving deeper into code and exploring different areas of development.  
+I’ve always enjoyed working with computers, which led me to take a **multimedia course**. Along the way, I discovered that what I really enjoyed was **programming**. Since then, I’ve been diving deeper into code and exploring different areas of development.  
 
 · · ─ ·✶· ─ · ·
 
