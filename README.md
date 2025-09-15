@@ -7,7 +7,7 @@ I’ve always enjoyed working with computers, which led me to take a **multimedi
 · · ─ ·✶· ─ · ·
 
 A bit about me:  
-*  I’ve built websites, both **front-end and back-end**.  
+*  I’ve built websites, both **front-end** and **back-end**.  
 *  Currently self-learning **Android engineering**, while still exploring new technologies.  
 *  Always curious and open to learning something new in the tech world.  
 *  I speak **Portuguese**, **English**, and **German**.
